@@ -2,10 +2,10 @@
     "name": "botgo",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
-    "main": "trial-bot.js",
+    "main": "bot.js",
     "author": "TheNaman047",
     "scripts": {
-        "start": "node bot.js"
+        "start": "node.js"
     },
     "dependencies": {
 	"discord.js" : "11.2.1"
